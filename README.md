@@ -6,7 +6,7 @@ This project is dedicated to improving my C++ programming skills and enhancing m
 
 You can view my progress and solved problems on my Baekjoon account.
 
-**My Rank**: ![Gold 4 Badge](https://img.shields.io/badge/Rank-Gold%204-yellow)  
+- **My Rank**: ![Gold Badge](https://img.shields.io/badge/Rank-Gold%204-yellow)  
 - **My Account**: [Link to my Baekjoon account](https://www.acmicpc.net/user/cherrycherry)
 
 ## Problem Set
