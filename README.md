@@ -6,7 +6,7 @@ This project is dedicated to improving my C++ programming skills and enhancing m
 
 You can view my progress and solved problems on my Baekjoon account.
 
-- **My Account**: [Link to your Baekjoon account](https://www.acmicpc.net/user/cherrycherry)
+- **My Account**: [Link to my Baekjoon account](https://www.acmicpc.net/user/cherrycherry)
 
 ## Problem Set
 
